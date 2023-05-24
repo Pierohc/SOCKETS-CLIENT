@@ -53,5 +53,8 @@ sock_buffer es un parámetro que indica el tamaño máximo de los datos que se p
             sock.close()
             
   Finalmente se termina la conexion con el servidor.
+  
+  
+  SergioABS0813
 
     
