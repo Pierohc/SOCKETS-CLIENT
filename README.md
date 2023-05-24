@@ -4,7 +4,7 @@ La parte inicial es similar a la del servidor
 ## OJO:
 Para codificar un mensaje es de la forma : 
 
-    data = sock.sendall(msg.encode("utf-8"))  # se usan comillas dobles ("")
+    data = sock.sendall(msg.encode("utf-8"))  # se usan comillas dobles ("") o puede ser con comillas simples ('')
     
 Para decodificar un mensaje es de la forma:
 
